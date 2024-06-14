@@ -1,2 +1,2 @@
-# Sabri-ma-am
-This is Dr. Sabri mam's Portfolio
+# portfolio-rla
+Ram Lal Anand College(DU), Principal's Portfolio 
